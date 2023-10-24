@@ -1,0 +1,82 @@
+a{
+  text-decoration: none;
+}
+
+body {
+  background-color: #D9BEAA;
+}
+
+body {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #131921;
+}
+
+nav, aside {
+  color: rgb(82, 3, 252);
+}
+
+a {
+  text-decoration: none;
+}
+
+a {
+  color: #131921;
+}
+
+a:visited {
+  color: red;
+}
+
+a:hover {
+  color: greenyellow;
+}
+
+section {
+  border: 1px solid #000;
+}
+
+article {
+  box-shadow: 5px 10px;
+}
+
+h1 {
+   font-size: 2.5em;
+}
+
+p {
+  font-size: 1.25em;
+}
+
+span {
+  font-weight: bold;
+}
+
+main {
+  background-color: rgb(233,154,88);
+  width: 90%;
+  margin: auto;
+}
+
+p {
+  text-align: justify;
+}
+
+li {
+  list-style: none;
+}
+
+h3:nth-child(1) {
+  color:aliceblue;
+}
+
+h3:nth-child(2) {
+  color: mediumseagreen;
+}
+
+#h2-1 {
+  color: #131921;
+}
+
+#h2-2 {
+  text-shadow: 2px 2px #ff0000;
+}
